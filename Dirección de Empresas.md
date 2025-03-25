@@ -20,6 +20,49 @@
 - Organización que combina los recursos para producir bienes y servicios
 - Operan en mercados competitivos y regulados(._.XD)
 - Buscan maximizar beneficios y sostenibilidad
+- Las empresas funcionan como sistemas abiertos, influenciados por su entorno. Se componen de 2 partes:
+	- Sistema social: Personas, cultura, liderazgo, etc...
+	- Sistema Tecnico: Procesos, tecnología, métodos de producción, etc...
+
+## Funciones clave en una empresa
+	1.-Produccion
+	2.-Finanzas
+	3.-Recursos Humanos
+	4.-Marketing y ventas
+
+## Elementos de una empresa:
+	1.- Recursos humanos
+	2.- Capital
+	3.- Materia prima
+	4.-Tecnologia
+	5.-Infraestructura
+
+## Tipos de empresas según su propiedad:
+	1.-Privadas
+	2.-Publicas(lamentable (?))
+	3.-Mixtas
+
+## Por tamaño:
+	1.-Microempresas: <10 empleados
+	2.-Pequeña: <50 empleados
+	3.-Mediana: <250 empleados	      (YELPICO YIAAAAAAAAAAAAAAAA🥶🥶🥶🥶🗣️🗣️🗣️)
+	4.-Grande: >250 empleados
+
+- Def. Administracion y diferencia entre eficiencia y eficacia (otra vez esta wea XD)zzz
+
+## Funciones de la administracion: Planificacion, organizacion, direccion y control.
+	1.-Planificacion: Permite establecer metas y estrategias.
+			  Facilita la optimizacion de recuersos.
+			  Miminiza riesgos e incertidumbre.
+			  -Modelos de planificacion: FODA,BCG,PESTEL,Balanced scorecard
+	2.- Direccion y liderazgo: Motivacion y gestion de talento.
+				   Comunicacion organizacional efectiva.
+- Estructuras organizacionales, Jerárquica, Autoridad centralizada... (no me dejo escribir más XD)
+
+- Control y evaluacion de la gention: Indicadores clave de desempeño[KPI´s]
+				     Evaluacion de eficiencia operativa.
+				     Control presupuestario.
+
 
 # Clase 4: 25-03 (Ariel)
 ## Desarrollo de la teoría de administración de la organización
