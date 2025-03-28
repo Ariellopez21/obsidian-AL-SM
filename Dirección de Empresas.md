@@ -45,7 +45,7 @@
 ## Por tamaño:
 	1.-Microempresas: <10 empleados
 	2.-Pequeña: <50 empleados
-	3.-Mediana: <250 empleados	      (YELPICO YIAAAAAAAAAAAAAAAA🥶🥶🥶🥶🗣️🗣️🗣️)
+	3.-Mediana: <250 empleados	      (YELPICO YIAAAAAAAAAAAAAAAA🥶🥶🥶🥶🗣️🗣️🗣️):v
 	4.-Grande: >250 empleados
 
 - Def. Administracion y diferencia entre eficiencia y eficacia (otra vez esta wea XD)zzz
