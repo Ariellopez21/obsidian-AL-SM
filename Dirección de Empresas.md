@@ -177,3 +177,43 @@ Ambas teorías son fundamentales en la administración moderna, pero mientras Ta
 > 6. **Enfoque en el bienestar del empleado** 😊
 > - Se busca un equilibrio entre la vida laboral y personal.
 > - Se promueve un ambiente de trabajo armónico y motivador.
+
+# Clase 6: 08-04  (Ariel):
+
+Actividades primarias:
+1. Logistica interna
+2. Operaciones
+3. Logistica externa
+4. Markeking de Ventas
+5. Servicios Postventas
+
+Actividades de Apoyo:
+1. Infraestructura de la empresa.
+2. Gestión de recursos humanos.
+3. Desarrollo tecnológico.
+4. Abastecimiento.
+
+Interrelaciones y enlaces:
+1. Las actividades no son independientes entre sí
+2. Las interacciones entre actividades generan valor.
+3. Los enlaces permiten optimizar el conjunto, no solo las partes.
+
+Ventaja Competitiva Sostenible:
+1. Surge de actividades integradas y únicas.
+2. Difícil de imitar cuando hay múltiples fuentes interconectadas.
+3. La clave está en la configuración del sistema completo de actividades.
+
+Resumen Final:
+1. La cadena de valor permite descomponer la empresa en actividades estratégicas
+2. El análisis detallado identifica oportunidades de ventaja competitiva.
+
+Preguntas de Repaso y Respuestas:
+1. Qué es la cadena de valor
+2. Cuáles son las actividades primarias
+3. Qué función tienen las actividades de apoyo
+4. Qué son las interrelaciones en la cadena de valor.
+5. Cómo se logra una ventaja competitiva sostenible
+
+> [!todo] Sobre el texto que nos hizo leer
+> ![[Dir_Empr#^frame=SPgFibSf18qMzdU5D8aqP| 800 | center]]
+
