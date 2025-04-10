@@ -217,3 +217,19 @@ Preguntas de Repaso y Respuestas:
 > [!todo] Sobre el texto que nos hizo leer
 > ![[Dir_Empr#^frame=SPgFibSf18qMzdU5D8aqP| 800 | center]]
 
+# CLASE 7: 10-04 (SEBAS😎🥶)
+
+## ACTORES EN EL MERCADO
+![[Pasted image 20250410170123.png]]
+## Comentarios
+- A la profe le gusta el chocolate xd (Y EL PI.. YIAAAAAAAAAAAAAAAAAAAAAAAA🗣️🗣️🗣️🗣️)
+
+![[Análisis Competitivo y Mercado.png]]
+*PROVÉ UNA IA PA GRABAR Y ME HIZO ESTO, BASTANTE DECENTE LA VERDAD 👌👌👌😎😎*
+
+
+### Incentivos del mercado
+- Ofertas
+- Promociones
+- Poner productos complementarios cerca del principal (Pan, queso, mantequilla...)
+- Tu mamita ?)
