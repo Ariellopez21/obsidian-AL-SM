@@ -214,17 +214,24 @@ Preguntas de Repaso y Respuestas:
 4. Qué son las interrelaciones en la cadena de valor.
 5. Cómo se logra una ventaja competitiva sostenible
 
+
 > [!todo] Sobre el texto que nos hizo leer
 > ![[Dir_Empr#^frame=SPgFibSf18qMzdU5D8aqP| 800 | center]]
 
 # CLASE 7: 10-04 (SEBAS😎🥶)
 
 ## ACTORES EN EL MERCADO
-![[Pasted image 20250410170123.png]]
-## Comentarios
-- A la profe le gusta el chocolate xd (Y EL PI.. YIAAAAAAAAAAAAAAAAAAAAAAAA🗣️🗣️🗣️🗣️)
 
-![[Análisis Competitivo y Mercado.png]]
+> [!todo] DIAGRAMA HECHO POR LA PROFE EL 10-04 SOBRE LOS ELEMENTOS QUE RODEAN A UN EMPRESA 🥶🥶🗣️🗣️🗣️😎 
+> ![[Dirección de Empresas/Dir_Empr.md#^frame=_gzwQoEzyGWAxjoLviSvi | 600 | center]]
+
+## Comentarios
+- A la profe le gusta el chocolate xd (Y EL PI.. YIAAAAAAAAAAAAAAAAAAAAAAAA🗣️🗣️🗣️🗣️) 🤣🤣🤣
+
+
+> [!NOTE] Análisis competitivo y mercado
+> ![[Análisis Competitivo y Mercado.png | center]]
+
 *PROVÉ UNA IA PA GRABAR Y ME HIZO ESTO, BASTANTE DECENTE LA VERDAD 👌👌👌😎😎*
 
 
@@ -232,4 +239,5 @@ Preguntas de Repaso y Respuestas:
 - Ofertas
 - Promociones
 - Poner productos complementarios cerca del principal (Pan, queso, mantequilla...)
-- Tu mamita ?)
+- Tu mamita ?) la tuya porsiaca
+
