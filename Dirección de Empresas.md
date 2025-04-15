@@ -1,10 +1,20 @@
 # Horario
 - Martes y Jueves: 16:10 - 17:40
+
 # Unidades Programadas
 1. Empresa y Administración
 2. Estrategia Corporativa
 3. Estrategias Funcionales de la empresa
 4. Motivación y Liderazgo
+
+# Evaluaciones
+1. Primera nota: Prueba Global ($50\%$)
+2. Segunda nota: 3 controles + 1 trabajo
+
+## Fechas
+- Martes 6 de mayo (control 1) -> Hasta lo que se vea la ***Clase del 17-04***.
+
+
 # Clase 1: 18-03 (Ariel)
 - Hicimos una tarea diagnóstico.
 
@@ -240,4 +250,81 @@ Preguntas de Repaso y Respuestas:
 - Promociones
 - Poner productos complementarios cerca del principal (Pan, queso, mantequilla...)
 - Tu mamita ?) la tuya porsiaca
+
+# Clase 8: 15-04 (Ariel):
+
+> En el capitulo anterior vimos: Análisis interno de la industria, **ventaja competitiva**.
+> Anotamos fecha de control 1 en sección [[#Evaluaciones]]
+
+Esquema de: **La cadena de valor y la ventaja competitiva**.
+1. entendimiento de la ventaja competitiva
+2. cadena de valor
+3. tipos de actividades
+4. nexos dentro de la cadena de valor
+5. nexos verticales
+6. alcance de la cadena de valor
+7. interrelaciones entre cadenas de valor
+8. condiciones y la cadena de valor
+9. implicaciones estratégicas
+
+> Ej: Herramientas complementarias que se convierten en herramientas primarias y de valor, como la tecnología, AI, etc.
+
+## Entendimiento
+
+- La ventaja competitiva nace de muchas actividades específicas que se ejecutan al diseñar, fabricar, comercializar, entregar y la venta de su producto.
+
+## Cadena de valor
+
+- El análisis de la cadena de valor se enfoca en examinar estas actividades individuales y sus interrelaciones para determinar dónde se puede mejorar el valor para el cliente o reducir los costos.
+- En una empresa existen 2 formas de ver las cadenas de valor.
+- Sí tenemos una empresa de una sola industria, su cadena de valor es 1 sola.
+- Sí tenemos una empresa diversificada, tiene varias cadenas de valor asociadas a cada tipo de unidad (ejemplo, sí una empresa tiene unidades de administración, de distribuciones, etc. y se diferencian muy bien entre cada unidad, entonces, cada una tendrá una cadena de valor).
+
+### Componentes de la cadena de valor
+
+- **Primarias**: Se involucran en la creación física del producto, su venta y transferencia al comprador, así como el servicio post-venta; Estas son: logística de entrada, operaciones, logística de salida, marketing y ventas, servicio.
+- **Apoyo**: Sostienen las actividades primarias y se apoyan entre sí, proporcionando insumos y funciones; Esto son: Infraestructura, RRHH, desarrollo tecnológico, adquisiciones.
+
+> Nota sobre las barreras de entrada: Sí a todos les cuesta poco empezar en el rubro (supongamos en puq: son muchas cafeterías, por lo que sus barreras de entrada son muy bajas, por lo que es dificil prosperar o destacar)
+
+> **Buscar: Cadena genérica**; Muestra como se ve la relación entre las actividades de apoyo y las primarias.
+
+## Ventaja competitiva
+
+- ventaja en costos, ventaja en diferenciación.
+- ventaja en costos: cuando una empresa realiza sus actividades de cadena de valor más eficientemente que sus competidores.
+- ventaja en diferenciación: son las cosas que hacen que una empresa se diferencie de las demás.
+
+> Ej: La profe da un ejemplo de que una colega le dice que cuando tiene clases a las 8 de la mañana, le lleva un termo con chocolate caliente a sus estudiantes para diferenciarse.
+
+## Nexos dentro de la cadena de valor
+
+- Gestión de nexos puede reducir costos o mejorar diferenciación
+
+## Alcance de la cadena de valor
+
+- Se refiere a la amplitud de las actividades que la empresa realiza internamente.
+- Las decisiones sobre el alcance puede afectar a la ventaja competitiva.
+
+> Ej: Cómo se realiza envíos en una empresa, por ejemplo por avión y barco, solo avión, internacional, tienen aduana, etc.
+
+## Alianzas estratégicas
+
+- Coordinación con otras firmas.
+- Coaliciones permiten ampliar alcance sin integración total.
+- Sirven para extender sus cadenas de valor.
+- Lograr ventajas competitivas que no podrían alcanzar individualmente.
+
+> **Una coalición permite ampliar el alcance de una empresa sin recurrir a la integración.**
+> Ej: Me imagino que, por ejemplo, comprar una empresa pequeña no entra en esta estrategia.
+
+## Estructura organizacional
+
+- Ayuda a que las unidades estén bien definidas y administradas para mejorar y aumentar la ventaja competitiva.
+
+## Conclusión Final
+
+- La cadena de valor es esencial para analizar ventaja competitiva.
+- Clave para identificar mejorar en costos y diferenciación.
+- Requiere gestión estratégica de nexos internos y externos.
 
