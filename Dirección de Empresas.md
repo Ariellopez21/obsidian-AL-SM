@@ -327,4 +327,80 @@ Esquema de: **La cadena de valor y la ventaja competitiva**.
 - La cadena de valor es esencial para analizar ventaja competitiva.
 - Clave para identificar mejorar en costos y diferenciación.
 - Requiere gestión estratégica de nexos internos y externos.
+# Clase 9: 17-04 (Sebas😎👌)
+
+### ¿Que es la cadena de valor?
+- Herramienta desarrollada por michael porter
+- Permite identificar las actividades que general valor dentro de una organizacion
+- Se divide en actividades primarias y actividades de apoyo
+
+## Caso de ***Amazon*** (Con Duván escogimos esta empresa :D)
+- Infraestructura logística altamente automatizada
+- Uso intensivo de IA y algoritmos
+- Logística externa propia y eficiente
+- Atención al cliente automatizada y eficaz
+## Ejercicio sobre la "Cadena del valor"
+
+1. Describir brevemente el modelo de negocio de la empresa
+2. Identificar las actividades clave en la cadena de valor
+3. Detectar que actividades generan ventaja competitiva
+4. Proponer una mejora o innovación estratégica con alguna 
+***DISCUCION PLENARIA***
+5. ¿Cuál empresa depende más de la estrategia?
+6. ¿Dónde radica la mayor innovación en la cadena?
+7. ¿Qué elementos son transferibles entre industrias?
+## DESARROLLO
+# Análisis y Comparación: Amazon, Zara y Starbucks (Respondí las que me tocaron xd)
+
+## 5. ¿Cuál empresa depende más de la estrategia?
+
+**Amazon** es la empresa que más depende de la estrategia. Su éxito está profundamente vinculado a decisiones estratégicas en múltiples niveles: optimización logística, dominio tecnológico, expansión global, diversificación de servicios (como AWS) y gestión de datos a gran escala. En un entorno tan competitivo como el e-commerce, su sostenibilidad depende directamente de su visión estratégica.
+
+Por otro lado, **Zara** se apoya más en la táctica y la agilidad operativa. Aunque su modelo de negocio es altamente eficiente, responde más a una estrategia de velocidad de respuesta que a una estrategia de diversificación o expansión tecnológica.
+
+**Starbucks**, aunque tiene una estrategia clara centrada en la experiencia del cliente y expansión internacional, su complejidad estratégica no alcanza el nivel de Amazon.
+
+> **Conclusión:** Amazon es la empresa que más depende de la estrategia para mantener su liderazgo y crecimiento constante.
+
+---
+
+## 6. ¿Dónde radica la mayor innovación en la cadena?
+
+- **Amazon:** Su innovación se encuentra principalmente en la **tecnología aplicada a la logística**. Ha transformado la cadena de suministro con almacenes automatizados, algoritmos de predicción, inteligencia artificial, y proyectos como entregas con drones.
+
+- **Zara:** La innovación está en su **modelo de producción y distribución ultrarrápida**. Puede diseñar, fabricar y distribuir ropa en un lapso de dos semanas, lo que rompe el paradigma tradicional de la industria de la moda. Esto requiere una coordinación y análisis constante en toda la cadena.
+
+- **Starbucks:** Su innovación se enfoca en la **experiencia del cliente y digitalización**: sistemas de fidelización, pedidos vía app, y personalización del servicio. Aunque efectiva, no transforma su cadena productiva con la misma intensidad que las otras empresas.
+
+> **Conclusión:** Zara presenta la mayor innovación dentro de su cadena de valor, al reinventar por completo los tiempos y procesos del sector textil.
+
+---
+
+## 7. ¿Qué elementos son transferibles entre industrias?
+
+A pesar de pertenecer a sectores distintos, hay prácticas que pueden adaptarse entre ellas:
+
+- **Digitalización y análisis de datos**
+  - Amazon: uso intensivo de inteligencia artificial.
+  - Zara: análisis de ventas y comportamiento del cliente.
+  - Starbucks: app móvil y sistema de recompensas.
+
+- **Logística eficiente**
+  - Amazon: automatización y optimización.
+  - Zara: velocidad y flexibilidad en producción y distribución.
+  - Starbucks: suministro constante a nivel global.
+
+- **Enfoque en el cliente**
+  - Amazon: personalización de ofertas.
+  - Zara: productos alineados con la demanda local.
+  - Starbucks: experiencia inmersiva en tienda.
+
+- **Cultura de innovación**
+  - Amazon: desarrollo continuo de tecnología.
+  - Zara: innovación en procesos.
+  - Starbucks: innovación en servicio.
+
+> **Conclusión:** Los elementos más transferibles entre industrias son la digitalización, la orientación al cliente y la mejora continua en procesos. La logística avanzada también es adaptable, pero requiere una escala y recursos importantes.
+
+
 
