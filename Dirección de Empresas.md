@@ -339,6 +339,7 @@ Esquema de: **La cadena de valor y la ventaja competitiva**.
 - Uso intensivo de IA y algoritmos
 - Logística externa propia y eficiente
 - Atención al cliente automatizada y eficaz
+
 ## Ejercicio sobre la "Cadena del valor"
 
 1. Describir brevemente el modelo de negocio de la empresa
@@ -349,7 +350,9 @@ Esquema de: **La cadena de valor y la ventaja competitiva**.
 5. ¿Cuál empresa depende más de la estrategia?
 6. ¿Dónde radica la mayor innovación en la cadena?
 7. ¿Qué elementos son transferibles entre industrias?
+
 ## DESARROLLO
+
 # Análisis y Comparación: Amazon, Zara y Starbucks (Respondí las que me tocaron xd)
 
 ## 5. ¿Cuál empresa depende más de la estrategia?
@@ -402,5 +405,29 @@ A pesar de pertenecer a sectores distintos, hay prácticas que pueden adaptarse 
 
 > **Conclusión:** Los elementos más transferibles entre industrias son la digitalización, la orientación al cliente y la mejora continua en procesos. La logística avanzada también es adaptable, pero requiere una escala y recursos importantes.
 
+# Clase 19: 22-04 (Ariel)
 
+> Resumen de la clase:
+> 1. **GreenCharge es un proyecto europeo** que tiene como **objetivo desarrollar un sistema de carga inteligente para vehículos eléctricos**.
+> 2. Analizar las 5 fuerzas de porter para GreenCharge: competidores, proveedores, clientes, nuevos entrantes, sustitutos.
+> 3. Determinar cuál es la mayor amenaza.
+> 4. Cómo mitigarla
+
+## Discusión
+
+Se acordó en clases que:
+
+- Las amenazas de nuevos entrantes era amenaza media
+- Que los sustitutos era tanto media como alta (había debate)
+- Sobre los clientes también hubo disparidad porque algunos decían que era amenaza media y otros muy alta
+- Sobre proveedores todos concordamos en que era muy alta y nosotros dijimos que para nosotros era la amenaza más determinante.
+- Sobre la amenaza de competidores no alcanzamos a hablar y tampoco alcanzamos a ver cuál era la mayor amenaza y cómo mitigarla así que eso quedó pendiente para la clase del Jueves.
+
+## Importante
+
+- Nosotros (duvan la chica y yo), concluimos que las mayores amenazas son la de los proveedores y la de competidores, aunque nos tiramos para la de proveedores porque la explicación era que había muy pocos y solo podías contar con esos pocos, entonces, era dificil entrar al mercado, también era dificil cambiar, **¿qué pasaría si uno de los proveedores caga?**, y cosas así.
+- Y sobre las soluciones teníamos pensado que a corto plazo las alianzas entre empresas, proyectos con el estado, y cosas por el estilo pueden ayudar a salir del hoyo fácilmente.
+- A largo plazo, ser autosustentables.
+
+> PD: La profe me hizo participar harto por el tema de que nos webea porque nos turnamos, así que anda preparado con un poco de gpt porque te va a preguntar también XD
 
