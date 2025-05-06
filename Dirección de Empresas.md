@@ -18,7 +18,7 @@
 # Clase 1: 18-03 (Ariel)
 - Hicimos una tarea diagnóstico.
 
-> Se encuentra dentro de la carpeta con el nombre: Diagnóstico **Ariel López Dir de Emprs.docx**
+> Se encuentra dentro de la carpeta con el nombre: **Diagnóstico Ariel López Dir de Emprs.docx**
 # Clase 2: 20-03 (Seba)
 - Empezó preguntando cuales son las principales responsabilidades administrativas de un ingeniero en su área de trabajo? zzz
 - Hablo de su vida y sobre el corte de luz nacional(zzz)
@@ -58,7 +58,7 @@
 	3.-Mediana: <250 empleados	      (YELPICO YIAAAAAAAAAAAAAAAA🥶🥶🥶🥶🗣️🗣️🗣️):v
 	4.-Grande: >250 empleados
 
-- Def. Administracion y diferencia entre eficiencia y eficacia (otra vez esta wea XD)zzz
+- Def. Administracion y diferencia entre eficiencia y eficacia (otra vez esta wea XD)zzzBASTAAAAAAAAa
 
 ## Funciones de la administracion: Planificacion, organizacion, direccion y control.
 	1.-Planificacion: Permite establecer metas y estrategias.
@@ -249,7 +249,7 @@ Preguntas de Repaso y Respuestas:
 - Ofertas
 - Promociones
 - Poner productos complementarios cerca del principal (Pan, queso, mantequilla...)
-- Tu mamita ?) la tuya porsiaca
+- Tu mamita ?) la tuya porsiaca Keweaaaa
 
 # Clase 8: 15-04 (Ariel):
 
@@ -277,15 +277,16 @@ Esquema de: **La cadena de valor y la ventaja competitiva**.
 
 - El análisis de la cadena de valor se enfoca en examinar estas actividades individuales y sus interrelaciones para determinar dónde se puede mejorar el valor para el cliente o reducir los costos.
 - En una empresa existen 2 formas de ver las cadenas de valor.
-- Sí tenemos una empresa de una sola industria, su cadena de valor es 1 sola.
-- Sí tenemos una empresa diversificada, tiene varias cadenas de valor asociadas a cada tipo de unidad (ejemplo, sí una empresa tiene unidades de administración, de distribuciones, etc. y se diferencian muy bien entre cada unidad, entonces, cada una tendrá una cadena de valor).
+- **Sí tenemos una empresa de una sola industria, su cadena de valor es 1 sola**.
+- **Sí tenemos una empresa diversificada, tiene varias cadenas de valor asociadas a cada tipo de unidad** (ejemplo, sí una empresa tiene unidades de administración, de distribuciones, etc. y se diferencian muy bien entre cada unidad, entonces, cada una tendrá una cadena de valor).
 
 ### Componentes de la cadena de valor
 
 - **Primarias**: Se involucran en la creación física del producto, su venta y transferencia al comprador, así como el servicio post-venta; Estas son: logística de entrada, operaciones, logística de salida, marketing y ventas, servicio.
 - **Apoyo**: Sostienen las actividades primarias y se apoyan entre sí, proporcionando insumos y funciones; Esto son: Infraestructura, RRHH, desarrollo tecnológico, adquisiciones.
 
-> Nota sobre las barreras de entrada: Sí a todos les cuesta poco empezar en el rubro (supongamos en puq: son muchas cafeterías, por lo que sus barreras de entrada son muy bajas, por lo que es dificil prosperar o destacar)
+> Barreras de entrada: Lo que cuesta entrar en una industria (sea mucho o poco, o sea, si las barreras de entrada son bajas o altas);
+> Ej: Supongamos en puq: son muchas cafeterías, por lo que sus barreras de entrada son muy bajas, por lo que es dificil prosperar o destacar.
 
 > **Buscar: Cadena genérica**; Muestra como se ve la relación entre las actividades de apoyo y las primarias.
 
@@ -327,6 +328,7 @@ Esquema de: **La cadena de valor y la ventaja competitiva**.
 - La cadena de valor es esencial para analizar ventaja competitiva.
 - Clave para identificar mejorar en costos y diferenciación.
 - Requiere gestión estratégica de nexos internos y externos.
+
 # Clase 9: 17-04 (Sebas😎👌)
 
 ### ¿Que es la cadena de valor?
