@@ -433,3 +433,62 @@ Se acordó en clases que:
 
 > PD: La profe me hizo participar harto por el tema de que nos webea porque nos turnamos, así que anda preparado con un poco de gpt porque te va a preguntar también XD
 
+# Clase 13/05
+
+> [!NOTE] Lo que se va a ver
+> Estrategias funcionales
+> se verá a lo largo de 3 semanas.
+
+> [!NOTE] Vídeo youtube
+> Descubre las estrategias FUNCIONALES para aplicar a CORTO PLAZO
+> Video en youtube: Como IMPULSAR tu NEGOCIO con una ESTRATEGIA COMERCIAL EFECTIVA: ¡PASO A PASO!
+
+> [!important] Contenidos de esta Unidad
+> Estrategia de comercialización
+> - Objetivo: Comprender cómo las decisiones de marketing impactan el posicionamiento.
+> - Segmento de clientes
+> - Posicionamiento y diferenciación.
+> - Mezcla de marketing (4P: Plaza, precio, promoción, producto)
+> - Estrategias de fidelización
+> - Ej: Appe vs Xiaomi
+> - Actividad: Análisis Starbucks.
+> - Evaluación: Preguntas + mapa conceptual.
+> 
+> Estrategia financiera
+> - Estructura de capital y financiamiento.
+> - Políticas de inversión y liquidez
+> - Rentabilidad y control de costos
+> - Indicadores financieros (ROI, ROE, margen)
+> - Ej: Amazon y su reinversión
+> - Actividad; Análisis de balance pyme
+> - Evaluación: Discusión guiada
+> 
+> Estrategia de producción
+> - Objetivo: Optimizar recursos y procesos productivos.
+> - Gestión de operaciones
+> - JIT (Just in time) y Lean Manufacturing
+> - Calidad Total (TQM)
+> - Cadenas de suministro eficientes
+> - Ej: Toyota y producción ajustada
+> - Actividad: Simulaciónde flujo
+> - Evaluación: Identificación de cuellos de botella
+> 
+> Estrategia de personal y desarrollo
+> - Objetivo: potenciar el logro estratégico mediante el talento humano
+> - Planificación del capital humano
+> - Cultura organizacional y liderazgo
+> - Gestion por competencias
+> - Desarrollo profesional y retención
+> 
+> Estrategia de innovación empresarial
+> - Objetivo: evaluar la innovación como motor de sostenibilidad
+> - Tipos de innovación: producto, proceso, modelo de NEGOCIO
+> - Cultura  innovadora
+> - Gestion de I+D
+> - Integracion tecnologica
+> - Ej: netflix y su modelo de negocio
+> - Actividad: canvas para una startup
+> - Evaluacion: presentacion grupal
+
+
+
