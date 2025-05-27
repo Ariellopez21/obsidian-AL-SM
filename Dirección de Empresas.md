@@ -407,7 +407,7 @@ A pesar de pertenecer a sectores distintos, hay prácticas que pueden adaptarse 
 
 > **Conclusión:** Los elementos más transferibles entre industrias son la digitalización, la orientación al cliente y la mejora continua en procesos. La logística avanzada también es adaptable, pero requiere una escala y recursos importantes.
 
-# Clase 19: 22-04 (Ariel)
+# Clase 10: 22-04 (Ariel)
 
 > Resumen de la clase:
 > 1. **GreenCharge es un proyecto europeo** que tiene como **objetivo desarrollar un sistema de carga inteligente para vehículos eléctricos**.
@@ -433,7 +433,18 @@ Se acordó en clases que:
 
 > PD: La profe me hizo participar harto por el tema de que nos webea porque nos turnamos, así que anda preparado con un poco de gpt porque te va a preguntar también XD
 
-# Clase 13/05
+
+# Clases 11 y 12: 29/04 y 01/05
+
+> [!ERROR]
+> No estuvimos
+
+# Clase 13: 08/05
+
+> [!CHECK]
+> **Control 1**
+
+# Clase 14: 13/05
 
 > [!NOTE] Lo que se va a ver
 > Estrategias funcionales
@@ -449,7 +460,7 @@ Se acordó en clases que:
 > - Segmento de clientes
 > - Posicionamiento y diferenciación.
 > - Mezcla de marketing (4P: Plaza, precio, promoción, producto)
-> - Estrategias de fidelización
+> - Estrategias comerciales comunes: fidelización / diferenciación / bajo costo / omnicanalidad
 > - Ej: Appe vs Xiaomi
 > - Actividad: Análisis Starbucks.
 > - Evaluación: Preguntas + mapa conceptual.
@@ -490,165 +501,7 @@ Se acordó en clases que:
 > - Actividad: canvas para una startup
 > - Evaluacion: presentacion grupal
 
-
-
-
-# Clase 8: 15-04 (Ariel):
-
-> En el capitulo anterior vimos: Análisis interno de la industria, **ventaja competitiva**.
-> Anotamos fecha de control 1 en sección [[#Evaluaciones]]
-
-Esquema de: **La cadena de valor y la ventaja competitiva**.
-1. entendimiento de la ventaja competitiva
-2. cadena de valor
-3. tipos de actividades
-4. nexos dentro de la cadena de valor
-5. nexos verticales
-6. alcance de la cadena de valor
-7. interrelaciones entre cadenas de valor
-8. condiciones y la cadena de valor
-9. implicaciones estratégicas
-
-> Ej: Herramientas complementarias que se convierten en herramientas primarias y de valor, como la tecnología, AI, etc.
-
-## Entendimiento
-
-- La ventaja competitiva nace de muchas actividades específicas que se ejecutan al diseñar, fabricar, comercializar, entregar y la venta de su producto.
-
-## Cadena de valor
-
-- El análisis de la cadena de valor se enfoca en examinar estas actividades individuales y sus interrelaciones para determinar dónde se puede mejorar el valor para el cliente o reducir los costos.
-- En una empresa existen 2 formas de ver las cadenas de valor.
-- Sí tenemos una empresa de una sola industria, su cadena de valor es 1 sola.
-- Sí tenemos una empresa diversificada, tiene varias cadenas de valor asociadas a cada tipo de unidad (ejemplo, sí una empresa tiene unidades de administración, de distribuciones, etc. y se diferencian muy bien entre cada unidad, entonces, cada una tendrá una cadena de valor).
-
-### Componentes de la cadena de valor
-
-- **Primarias**: Se involucran en la creación física del producto, su venta y transferencia al comprador, así como el servicio post-venta; Estas son: logística de entrada, operaciones, logística de salida, marketing y ventas, servicio.
-- **Apoyo**: Sostienen las actividades primarias y se apoyan entre sí, proporcionando insumos y funciones; Esto son: Infraestructura, RRHH, desarrollo tecnológico, adquisiciones.
-
-> Nota sobre las barreras de entrada: Sí a todos les cuesta poco empezar en el rubro (supongamos en puq: son muchas cafeterías, por lo que sus barreras de entrada son muy bajas, por lo que es dificil prosperar o destacar)
-
-> **Buscar: Cadena genérica**; Muestra como se ve la relación entre las actividades de apoyo y las primarias.
-
-## Ventaja competitiva
-
-- ventaja en costos, ventaja en diferenciación.
-- ventaja en costos: cuando una empresa realiza sus actividades de cadena de valor más eficientemente que sus competidores.
-- ventaja en diferenciación: son las cosas que hacen que una empresa se diferencie de las demás.
-
-> Ej: La profe da un ejemplo de que una colega le dice que cuando tiene clases a las 8 de la mañana, le lleva un termo con chocolate caliente a sus estudiantes para diferenciarse.
-
-## Nexos dentro de la cadena de valor
-
-- Gestión de nexos puede reducir costos o mejorar diferenciación
-
-## Alcance de la cadena de valor
-
-- Se refiere a la amplitud de las actividades que la empresa realiza internamente.
-- Las decisiones sobre el alcance puede afectar a la ventaja competitiva.
-
-> Ej: Cómo se realiza envíos en una empresa, por ejemplo por avión y barco, solo avión, internacional, tienen aduana, etc.
-
-## Alianzas estratégicas
-
-- Coordinación con otras firmas.
-- Coaliciones permiten ampliar alcance sin integración total.
-- Sirven para extender sus cadenas de valor.
-- Lograr ventajas competitivas que no podrían alcanzar individualmente.
-
-> **Una coalición permite ampliar el alcance de una empresa sin recurrir a la integración.**
-> Ej: Me imagino que, por ejemplo, comprar una empresa pequeña no entra en esta estrategia.
-
-## Estructura organizacional
-
-- Ayuda a que las unidades estén bien definidas y administradas para mejorar y aumentar la ventaja competitiva.
-
-## Conclusión Final
-
-- La cadena de valor es esencial para analizar ventaja competitiva.
-- Clave para identificar mejorar en costos y diferenciación.
-- Requiere gestión estratégica de nexos internos y externos.
-# Clase 9: 17-04 (Sebas😎👌)
-
-### ¿Que es la cadena de valor?
-- Herramienta desarrollada por michael porter
-- Permite identificar las actividades que general valor dentro de una organizacion
-- Se divide en actividades primarias y actividades de apoyo
-
-## Caso de ***Amazon*** (Con Duván escogimos esta empresa :D)
-- Infraestructura logística altamente automatizada
-- Uso intensivo de IA y algoritmos
-- Logística externa propia y eficiente
-- Atención al cliente automatizada y eficaz
-## Ejercicio sobre la "Cadena del valor"
-
-1. Describir brevemente el modelo de negocio de la empresa
-2. Identificar las actividades clave en la cadena de valor
-3. Detectar que actividades generan ventaja competitiva
-4. Proponer una mejora o innovación estratégica con alguna 
-***DISCUCION PLENARIA***
-5. ¿Cuál empresa depende más de la estrategia?
-6. ¿Dónde radica la mayor innovación en la cadena?
-7. ¿Qué elementos son transferibles entre industrias?
-## DESARROLLO
-# Análisis y Comparación: Amazon, Zara y Starbucks (Respondí las que me tocaron xd)
-
-## 5. ¿Cuál empresa depende más de la estrategia?
-
-**Amazon** es la empresa que más depende de la estrategia. Su éxito está profundamente vinculado a decisiones estratégicas en múltiples niveles: optimización logística, dominio tecnológico, expansión global, diversificación de servicios (como AWS) y gestión de datos a gran escala. En un entorno tan competitivo como el e-commerce, su sostenibilidad depende directamente de su visión estratégica.
-
-Por otro lado, **Zara** se apoya más en la táctica y la agilidad operativa. Aunque su modelo de negocio es altamente eficiente, responde más a una estrategia de velocidad de respuesta que a una estrategia de diversificación o expansión tecnológica.
-
-**Starbucks**, aunque tiene una estrategia clara centrada en la experiencia del cliente y expansión internacional, su complejidad estratégica no alcanza el nivel de Amazon.
-
-> **Conclusión:** Amazon es la empresa que más depende de la estrategia para mantener su liderazgo y crecimiento constante.
-
----
-
-## 6. ¿Dónde radica la mayor innovación en la cadena?
-
-- **Amazon:** Su innovación se encuentra principalmente en la **tecnología aplicada a la logística**. Ha transformado la cadena de suministro con almacenes automatizados, algoritmos de predicción, inteligencia artificial, y proyectos como entregas con drones.
-
-- **Zara:** La innovación está en su **modelo de producción y distribución ultrarrápida**. Puede diseñar, fabricar y distribuir ropa en un lapso de dos semanas, lo que rompe el paradigma tradicional de la industria de la moda. Esto requiere una coordinación y análisis constante en toda la cadena.
-
-- **Starbucks:** Su innovación se enfoca en la **experiencia del cliente y digitalización**: sistemas de fidelización, pedidos vía app, y personalización del servicio. Aunque efectiva, no transforma su cadena productiva con la misma intensidad que las otras empresas.
-
-> **Conclusión:** Zara presenta la mayor innovación dentro de su cadena de valor, al reinventar por completo los tiempos y procesos del sector textil.
-
----
-
-## 7. ¿Qué elementos son transferibles entre industrias?
-
-A pesar de pertenecer a sectores distintos, hay prácticas que pueden adaptarse entre ellas:
-
-- **Digitalización y análisis de datos**
-  - Amazon: uso intensivo de inteligencia artificial.
-  - Zara: análisis de ventas y comportamiento del cliente.
-  - Starbucks: app móvil y sistema de recompensas.
-
-- **Logística eficiente**
-  - Amazon: automatización y optimización.
-  - Zara: velocidad y flexibilidad en producción y distribución.
-  - Starbucks: suministro constante a nivel global.
-
-- **Enfoque en el cliente**
-  - Amazon: personalización de ofertas.
-  - Zara: productos alineados con la demanda local.
-  - Starbucks: experiencia inmersiva en tienda.
-
-- **Cultura de innovación**
-  - Amazon: desarrollo continuo de tecnología.
-  - Zara: innovación en procesos.
-  - Starbucks: innovación en servicio.
-
-> **Conclusión:** Los elementos más transferibles entre industrias son la digitalización, la orientación al cliente y la mejora continua en procesos. La logística avanzada también es adaptable, pero requiere una escala y recursos importantes.
-
-
-
-
-==============================================================================================================================
-# Clase 20-05 
+# Clase 15: 20-05 
 ## Comercialización 
 ### Segmentación y posicionamiento
 1. Dividir el mercado en grupos homogeneops
@@ -681,3 +534,125 @@ Ej: Volvo = seguridad ; Red Bull = Energía
 4. Gestion del riego financiero
 5. Politicas de dividendos y estructura de capital
 Cual es el interes que te cobran los bancos normalmente. Cuanto es mucho cuanto es poco
+
+# Clase 16: 22/05
+
+## Estrategia Financiera
+
+- Objetivo: Identificar como la estrategia financiera respalda la viabilidad:
+- Estructura de capital y financiamiento
+- Políticas de inversión y liquidez
+- Rentabilidad y control de costos
+- Indicadores financieros (ROI, ROE, margen)
+
+Concepto de estrategia financiera: Planificación, control y gestión de valor.
+
+Tipos de estrategias financieras:
+
+- Inversion: (VAN, TIR, expansion)
+- Financiamiento: deuda vs capital
+- Liqudez: capital de trabajo
+- Rentabilidad: ROE, margen neto
+- Riesgo: cobertura y diversificación
+
+Herramientas de apoyo:
+
+- Analisis financiero y ratios
+- Presupuestos y escenarios
+- Modelos de simulacion
+- Cuadro de mando integral (CMI)
+
+## Caso práctico
+
+- Empresa solar: ¿Crédito o bonos verdes?
+- Analizar costo, riesgo, líquidez y coherencia estratégica
+
+
+> [!NOTE] Tarea
+> 1. Cuánto es el costo mensual y anual de un crédito bancario
+> 2. También del crédito solidario
+> 3. Deposito a plazo
+> 4. Crédito hipotecario
+> 5. CAE¿?
+> 6. Cuánto es mucho y bajo porcentaje de tasa de interés.
+
+
+> [!NOTE] Temas a discutir
+> - Cuál es el costo financiero de cada alternativa
+> - Cómo impacta la decisión en la liquidez y el apalancamiento
+> - Qué riesgos están asociados a cada fuente
+> - Qué estrategia se alinea mejor con los valores y visión de la empresa
+
+
+
+# Clase 17: 27/05 (Ariel):
+
+> OA: Administración de Operaciones
+
+- La OA trata sobre decisiones relacionadas con la elaboración de bienes y servicios (satisfactores), con **calidad** y uso eficiente de los recursos.
+- Incluye decisiones de planeación, organización, dirección y control del sistema que transforma insumos en productos/servicios.
+
+> Qué es la calidad (reflexión en clases): La **calidad** está asociada a estándares.
+
+## Sistema de operaciones/producción (SOP)
+
+- Conjunto de actividades orientadas a la producción de bienes o servicios.
+- Transformación de insumos (humanos, materiales, energéticos, información) en satisfactores (bienes/servicios)
+- En servicios, la transformación se realiza en el momento con el cliente.
+
+## Niveles decisionales de la AO
+
+- Estratégico: largo plazo (entorno, mercado, estrategia, pronostico).
+- Estructural: mediano plazo (capacidad, planta, procesos)
+- Funcional: corto plazo (producción, calidad, inventarios, logístico)
+
+## Metodología para la toma de decisiones
+
+- Investigación de operaciones: 
+- Modelos simbólico-matemáticos permiten representar la realidad
+- Enfoque sistémico: diagnóstico y solución integral de problemas.
+
+### Enfoque sistémico
+
+- Sistema: conjunto de elementos interrelacionados con un objetivo común. 
+- Dimensiones:
+	- Estructural: disposición de elementos.
+	- Funcional: Interacciones y flujos (materia, energía, información)
+- Importancia del diagnóstico integral y la sinergia emergente
+
+## El movimiento sistémico
+
+Desarrollo teórico de las ideas sistémicas, o aplicativos a problemas concretos:
+
+- Sistemas duros
+- Ayuda a toma de decisiones
+- Sistemas suaves
+
+## Modelos para la toma de decisiones
+
+- Ej: modelo de tamaño económico de lote.
+- Ecuación $Q=\sqrt{\frac{2CpD}{Ce}}$
+- Clasificación de modelos:
+	- Determinísticos o estocásticos
+	- Estáticos o dinámicos.
+	- Optimización, simulación
+
+## Tendencias en la AO
+
+- Factores externos: clientes más conscientes, competencia fuerte, importancia del servicio.
+- Factores internos: Tecnología de producto, procesos, información y administración.
+- Desafíos: medioambiente, condiciones laborales, cultura organizacional.
+
+## Elementos de la AO
+
+- Insumos
+- Sistemas de transformación
+- Satisfactores
+
+## Conclusiones
+
+- La AO busca mejoras productivas, calidad, competitividad.
+- Implica decisiones estratégicas, estructurales y funcionales.
+- Se apoya en herramientas como modelos, simulaciones y sistemas de información.
+- Es clave para el éxito de empresas modernas.
+
