@@ -656,3 +656,60 @@ Desarrollo teórico de las ideas sistémicas, o aplicativos a problemas concreto
 - Se apoya en herramientas como modelos, simulaciones y sistemas de información.
 - Es clave para el éxito de empresas modernas.
 
+# Clase 18: 03/06 (Ariel):
+
+## Definición de las necesidades de personal
+
+- Identificación de misión, visión y estrategia.
+- Análisis del perfil del puesto y competencias necesarias.
+- Alineación con valores y cultura organizacional.
+
+## Selección de personal
+
+- Tiene 5 etapas:
+	- Definir necesidades, integración del trabajo en equipo, etc.
+- Según funciones (12):
+	- Selección de personal, contratación y orientación, capacitación, etc.
+
+## Selección, contratación y capacitación
+
+- Técnicas: entrevistas, pruebas, evaluación por competencias.
+- Contratación e inducción: ajuste al rol y a la cultura.
+- Capacitación: clave para productividad y adaptación.
+
+## Elementos que contribuyen al éxito de los equipos
+
+- Un medio organizacional de apoyo (estimulante)
+- Habilidades de los miembros que corresponden con los requerimientos de la función a desempeñar.
+- Metas de orden superior.
+- Incentivos grupales en vez de individuales.
+
+## Integración al equipo de trabajo
+
+- Equipo vs grupo: sinergia, metas comunes y compromiso.
+- Claves: liderazgo, comunicación, cultura de colaboración.
+- Importancia del apoyo organizacional.
+
+## Liderazgo
+
+- Tipos: Situacional, carismático y transformacional.
+- Modelo de Hersey y Blanchard: tarea vs relación.
+
+## Motivación del personal
+
+- Motivación extrínseca, intrínseca y trascendente.
+- Empowerment[^1] y participación activa.
+- Incentivos y castigos: condiciones para efectividad.
+
+## Principales problemas de comunicación en las orgs.
+
+| Origen                    | Tipo Problema                                                                                       | Solución al Problema                                                                                           |
+| ------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Fuente                    | Poca credibilidad<br>Poca claridad<br>Filtración                                                    | Ser congruente y honesto<br>Ideas y mensajes claros<br>Desarrollar confianza mutua                             |
+| Receptor                  | Estados emocionales<br>Atención selectiva<br>Juicios de valor y prejuicios                          | Esperar y serenarse<br>Escucha activa y empatía<br>Apertura y juicio suspendido                                |
+| Factores organizacionales | Presiones de tiempo<br>Sobrecarga de información<br>Medios de comunicación deficientes o anticuados | Asignar tiempos y prioridades a la comunicación<br>Dosificar la inf. según receptor<br>Usar tecnología moderna |
+
+
+
+---
+[^1]: Empowerment: Empoderamiento
